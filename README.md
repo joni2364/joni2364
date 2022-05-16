@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @joni2364
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
-
-<!---
-joni2364/joni2364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+👋Здравейте, аз съм @joni2364
+👀Интересувам се от уеб технологии
+🌱В момента уча във ВТУ "Св. св. Кирил и Методий"
